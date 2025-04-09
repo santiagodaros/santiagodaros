@@ -9,7 +9,7 @@ I am an studying Computer science at University of Buenos Aires (UBA). Python is
   - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help
-- 🎵 listen to music, 🕹️ playing videogames, 💪 going to gym
+- 🎵 Outside tech: listen to music, 🕹️ playing videogames, 💪 going to gym
 - 📫 Reach out to me at: santiagolucasdaros@gmail.com</a>
 
 # 💻Tech <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> 
