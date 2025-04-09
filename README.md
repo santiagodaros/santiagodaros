@@ -16,8 +16,8 @@ I am an studying Computer science at University of Buenos Aires (UBA). Python is
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <p>
 <h2>👀 My github Stats</h2>
-<div style="margin-top: 0;">
 <a align= "center" href="https://github.com/santiagodaros">
+  <div style="margin-top: 0;">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=santiagodaros&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 </p>
