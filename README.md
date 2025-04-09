@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px">&nbsp;***About me***
 
 I am an studying Computer science at University of Buenos Aires (UBA). Python is the programming languages I am good at. But i am expanding my knowledge in data bases and a little in front-end.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in data modeling, software engineering and some web design**
 - 🌱 I’m currently learning ...
   - Java
   - SQL
