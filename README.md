@@ -17,8 +17,7 @@ I am an studying Computer science at University of Buenos Aires (UBA). Python is
 <p>
 <h2>👀 My github Stats</h2>
 <a align= "center" href="https://github.com/santiagodaros">
-  <div style="margin-top: 0;">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=santiagodaros&theme=cobalt&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="270px" width="400" margin-top:"0" src="https://github-readme-stats.vercel.app/api?username=santiagodaros&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 </p>
 
