@@ -12,5 +12,5 @@ I am an studying Computer science at University of Buenos Aires (UBA). Python is
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help
 - Outside tech, 🎵 listen to music, 🕹️ playing videogames, 💪 going to gym
-- 📫 Reach out to me at: <a href="santiagolucasdaros@gmail.com">santiagolucasdaros@gmail.com</a>
+- 📫 Reach out to me at: santiagolucasdaros@gmail.com</a>
 
